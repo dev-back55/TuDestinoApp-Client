@@ -1,0 +1,24 @@
+@media (max-width: 1024px) {
+  .hero {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    padding: 0 5%;
+  }
+
+  .hero::before {
+    content: "";
+    background-image: url("../../assets/imgRegister.jpg");
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.09;
+  }
+
+  .form {
+    position: relative;
+  }
+}

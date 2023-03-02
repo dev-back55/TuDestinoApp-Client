@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Casa alamos",
+    "country": "Colombia",
+    "city": "Medellin",
+    "address": "Av.5 tequendama 25 - 54N",
+    "image": [
+      "https://placeimg.com/640/480/any",
+      "https://placeimg.com/640/480/animals",
+      "https://placeimg.com/640/480/tech",
+      "https://placeimg.com/640/480/tech/sepia"
+    ],
+    "description": "Hotel cinco estrellas, para 100 personas, frente al mar",
+    "maxPeople": 10,
+    "price": 550,
+    "productType": "house",
+    "gym": false,
+    "swimmingPool": false,
+    "unAvailable": [{ "booking": 258792, "initial": 231205, "exit": 20231215 }]
+  },
+  {
+    "id": 1,
+    "title": "Casa alamos",
+    "country": "Colombia",
+    "city": "Medellin",
+    "address": "Av.5 tequendama 25 - 54N",
+    "image": [
+      "https://placeimg.com/640/480/any",
+      "https://placeimg.com/640/480/animals",
+      "https://placeimg.com/640/480/tech",
+      "https://placeimg.com/640/480/tech/sepia"
+    ],
+    "description": "Hotel cinco estrellas, para 100 personas, frente al mar",
+    "maxPeople": 10,
+    "price": 550,
+    "productType": "house",
+    "gym": false,
+    "swimmingPool": false,
+    "unAvailable": [{ "booking": 258792, "initial": 231205, "exit": 20231215 }]
+  },
+  {
+    "id": 1,
+    "title": "Casa alamos",
+    "country": "Colombia",
+    "city": "Medellin",
+    "address": "Av.5 tequendama 25 - 54N",
+    "image": [
+      "https://placeimg.com/640/480/any",
+      "https://placeimg.com/640/480/animals",
+      "https://placeimg.com/640/480/tech",
+      "https://placeimg.com/640/480/tech/sepia"
+    ],
+    "description": "Hotel cinco estrellas, para 100 personas, frente al mar",
+    "maxPeople": 10,
+    "price": 550,
+    "productType": "house",
+    "gym": false,
+    "swimmingPool": false,
+    "unAvailable": [{ "booking": 258792, "initial": 231205, "exit": 20231215 }]
+  },
+  {
+    "id": 1,
+    "title": "Casa alamos",
+    "country": "Colombia",
+    "city": "Medellin",
+    "address": "Av.5 tequendama 25 - 54N",
+    "image": [
+      "https://placeimg.com/640/480/any",
+      "https://placeimg.com/640/480/animals",
+      "https://placeimg.com/640/480/tech",
+      "https://placeimg.com/640/480/tech/sepia"
+    ],
+    "description": "Hotel cinco estrellas, para 100 personas, frente al mar",
+    "maxPeople": 10,
+    "price": 550,
+    "productType": "house",
+    "gym": false,
+    "swimmingPool": false,
+    "unAvailable": [{ "booking": 258792, "initial": 231205, "exit": 20231215 }]
+  },
+  {
+    "id": 1,
+    "title": "Casa alamos",
+    "country": "Colombia",
+    "city": "Medellin",
+    "address": "Av.5 tequendama 25 - 54N",
+    "image": [
+      "https://placeimg.com/640/480/any",
+      "https://placeimg.com/640/480/animals",
+      "https://placeimg.com/640/480/tech",
+      "https://placeimg.com/640/480/tech/sepia"
+    ],
+    "description": "Hotel cinco estrellas, para 100 personas, frente al mar",
+    "maxPeople": 10,
+    "price": 550,
+    "productType": "house",
+    "gym": false,
+    "swimmingPool": false,
+    "unAvailable": [{ "booking": 258792, "initial": 231205, "exit": 20231215 }]
+  },
+  {
+    "id": 1,
+    "title": "Casa alamos",
+    "country": "Colombia",
+    "city": "Medellin",
+    "address": "Av.5 tequendama 25 - 54N",
+    "image": [
+      "https://placeimg.com/640/480/any",
+      "https://placeimg.com/640/480/animals",
+      "https://placeimg.com/640/480/tech",
+      "https://placeimg.com/640/480/tech/sepia"
+    ],
+    "description": "Hotel cinco estrellas, para 100 personas, frente al mar",
+    "maxPeople": 10,
+    "price": 550,
+    "productType": "house",
+    "gym": false,
+    "swimmingPool": false,
+    "unAvailable": [{ "booking": 258792, "initial": 231205, "exit": 20231215 }]
+  },
+  {
+    "id": 1,
+    "title": "Casa alamos",
+    "country": "Colombia",
+    "city": "Medellin",
+    "address": "Av.5 tequendama 25 - 54N",
+    "image": [
+      "https://placeimg.com/640/480/any",
+      "https://placeimg.com/640/480/animals",
+      "https://placeimg.com/640/480/tech",
+      "https://placeimg.com/640/480/tech/sepia"
+    ],
+    "description": "Hotel cinco estrellas, para 100 personas, frente al mar",
+    "maxPeople": 10,
+    "price": 550,
+    "productType": "house",
+    "gym": false,
+    "swimmingPool": false,
+    "unAvailable": [{ "booking": 258792, "initial": 231205, "exit": 20231215 }]
+  },
+  {
+    "id": 1,
+    "title": "Casa alamos",
+    "country": "Colombia",
+    "city": "Medellin",
+    "address": "Av.5 tequendama 25 - 54N",
+    "image": [
+      "https://placeimg.com/640/480/any",
+      "https://placeimg.com/640/480/animals",
+      "https://placeimg.com/640/480/tech",
+      "https://placeimg.com/640/480/tech/sepia"
+    ],
+    "description": "Hotel cinco estrellas, para 100 personas, frente al mar",
+    "maxPeople": 10,
+    "price": 550,
+    "productType": "house",
+    "gym": false,
+    "swimmingPool": false,
+    "unAvailable": [{ "booking": 258792, "initial": 231205, "exit": 20231215 }]
+  }
+]

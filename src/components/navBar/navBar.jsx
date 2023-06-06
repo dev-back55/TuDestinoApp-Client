@@ -97,14 +97,14 @@ const NavBar = () => {
         </button>
         <input
           type="search"
-          placeholder="Pais"
+          placeholder="País o Ciudad"
           className="input input-bordered w-4/5 bg-white rounded-full shadow-lg text-slate-600 max-[600px]:hidden"
           value={dataSearch}
           onChange={onSearch}
         />
         <input
           type="search"
-          placeholder="Pais"
+          placeholder="País o Ciudad"
           value={dataSearch}
           onChange={onSearch}
           className={
